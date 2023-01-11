@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alejandro-olle-RTV
-- 🌱 I’m currently QA Graduate at Rakuten TV
+- 🌱 I’m currently QA Engineer at Rakuten TV
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
